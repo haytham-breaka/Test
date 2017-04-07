@@ -1,0 +1,8 @@
+> register student:
+	- generate reg# and pin
+	- access database to fetch departments and display them
+	- 7etta sya3a: lw transfer nbyn el textbox bta3 term and gpa and achieved hours else default 0
+	-dafa3 wla la2
+	- master wla undergrad
+	-email regex
+	-encrypt password
